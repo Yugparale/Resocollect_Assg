@@ -1,0 +1,101 @@
+Loan No,Loan Type,Borrower,Borrower Address,Co Borrower Name,Co Borrower Address,Current DPD,Sanction Amount,Region,Status
+L28U3965,Home Loan,Borrower 1,"854, Street 22, City 10",Co-Borrower 1,"767, Street 39, City 13",105,₹ 2313903,East,Pending
+L28U7242,Car Loan,Borrower 2,"425, Street 49, City 19",Co-Borrower 2,"630, Street 35, City 11",70,₹ 2853891,South,Active
+L28U5131,Personal Loan,Borrower 3,"363, Street 28, City 13",Co-Borrower 3,"302, Street 50, City 5",36,₹ 1354891,North,Pending
+L28U5260,Home Loan,Borrower 4,"674, Street 29, City 16",Co-Borrower 4,"838, Street 9, City 14",9,₹ 2990800,East,Pending
+L28U5089,Car Loan,Borrower 5,"509, Street 26, City 3",Co-Borrower 5,"119, Street 18, City 15",107,₹ 305958,East,Closed
+L28U6881,Car Loan,Borrower 6,"671, Street 47, City 14",Co-Borrower 6,"557, Street 40, City 3",61,₹ 3841740,South,Defaulted
+L28U4452,Home Loan,Borrower 7,"398, Street 3, City 18",Co-Borrower 7,"929, Street 29, City 16",90,₹ 3232247,North,Closed
+L28U9619,Home Loan,Borrower 8,"357, Street 26, City 6",Co-Borrower 8,"959, Street 21, City 13",55,₹ 791100,South,Pending
+L28U3416,Home Loan,Borrower 9,"692, Street 25, City 15",N/A,N/A,15,₹ 2991290,West,Pending
+L28U2570,Car Loan,Borrower 10,"794, Street 22, City 15",N/A,N/A,26,₹ 3321310,South,Pending
+L28U4042,Home Loan,Borrower 11,"653, Street 35, City 12",N/A,N/A,35,₹ 2764825,West,Active
+L28U7912,Home Loan,Borrower 12,"439, Street 26, City 12",N/A,N/A,37,₹ 1391974,North,Closed
+L28U8867,Car Loan,Borrower 13,"68, Street 3, City 20",N/A,N/A,96,₹ 523808,South,Pending
+L28U8730,Home Loan,Borrower 14,"660, Street 14, City 8",N/A,N/A,98,₹ 2994106,South,Closed
+L28U8645,Car Loan,Borrower 15,"489, Street 7, City 5",Co-Borrower 15,"574, Street 24, City 3",98,₹ 986996,East,Pending
+L28U8182,Car Loan,Borrower 16,"290, Street 26, City 10",N/A,N/A,92,₹ 3975431,East,Defaulted
+L28U4630,Car Loan,Borrower 17,"141, Street 30, City 7",Co-Borrower 17,"162, Street 46, City 18",113,₹ 3982412,North,Pending
+L28U4553,Home Loan,Borrower 18,"452, Street 6, City 7",N/A,N/A,45,₹ 4229838,West,Defaulted
+L28U1755,Car Loan,Borrower 19,"160, Street 1, City 10",Co-Borrower 19,"13, Street 36, City 8",19,₹ 943350,North,Active
+L28U2785,Home Loan,Borrower 20,"329, Street 11, City 15",N/A,N/A,14,₹ 4060978,North,Pending
+L28U1853,Personal Loan,Borrower 21,"287, Street 41, City 17",Co-Borrower 21,"506, Street 11, City 20",40,₹ 2712626,North,Closed
+L28U1981,Car Loan,Borrower 22,"677, Street 8, City 5",Co-Borrower 22,"331, Street 9, City 7",22,₹ 663214,North,Active
+L28U6074,Personal Loan,Borrower 23,"939, Street 36, City 4",Co-Borrower 23,"705, Street 49, City 12",30,₹ 3066594,East,Defaulted
+L28U4626,Personal Loan,Borrower 24,"244, Street 13, City 16",Co-Borrower 24,"776, Street 36, City 5",68,₹ 2581899,West,Defaulted
+L28U3756,Home Loan,Borrower 25,"445, Street 7, City 20",N/A,N/A,52,₹ 4391043,East,Closed
+L28U6457,Personal Loan,Borrower 26,"644, Street 34, City 5",Co-Borrower 26,"602, Street 10, City 8",95,₹ 480922,East,Closed
+L28U6484,Car Loan,Borrower 27,"537, Street 24, City 9",Co-Borrower 27,"229, Street 47, City 4",12,₹ 1329757,West,Closed
+L28U1823,Home Loan,Borrower 28,"179, Street 24, City 9",N/A,N/A,24,₹ 1227414,South,Pending
+L28U5997,Car Loan,Borrower 29,"875, Street 44, City 17",Co-Borrower 29,"749, Street 29, City 4",70,₹ 3846986,East,Pending
+L28U3028,Home Loan,Borrower 30,"190, Street 40, City 2",Co-Borrower 30,"532, Street 41, City 11",40,₹ 3248568,North,Defaulted
+L28U5242,Home Loan,Borrower 31,"465, Street 17, City 8",N/A,N/A,48,₹ 4675047,West,Defaulted
+L28U1574,Home Loan,Borrower 32,"505, Street 40, City 15",Co-Borrower 32,"124, Street 25, City 9",13,₹ 852074,West,Closed
+L28U9160,Personal Loan,Borrower 33,"706, Street 16, City 17",N/A,N/A,118,₹ 1031163,North,Pending
+L28U2060,Home Loan,Borrower 34,"369, Street 36, City 5",Co-Borrower 34,"530, Street 34, City 17",86,₹ 3632639,West,Pending
+L28U3135,Personal Loan,Borrower 35,"526, Street 46, City 2",N/A,N/A,2,₹ 188146,North,Active
+L28U7500,Personal Loan,Borrower 36,"475, Street 2, City 9",N/A,N/A,79,₹ 1706157,South,Active
+L28U3897,Car Loan,Borrower 37,"260, Street 44, City 18",Co-Borrower 37,"344, Street 27, City 12",88,₹ 525014,North,Defaulted
+L28U1442,Car Loan,Borrower 38,"824, Street 38, City 3",N/A,N/A,0,₹ 4899140,North,Active
+L28U3836,Personal Loan,Borrower 39,"316, Street 43, City 7",Co-Borrower 39,"487, Street 18, City 17",4,₹ 3634130,North,Pending
+L28U9224,Personal Loan,Borrower 40,"954, Street 20, City 13",Co-Borrower 40,"415, Street 26, City 16",91,₹ 1769157,West,Pending
+L28U2409,Car Loan,Borrower 41,"969, Street 1, City 2",N/A,N/A,76,₹ 4083383,South,Active
+L28U2449,Home Loan,Borrower 42,"64, Street 5, City 14",Co-Borrower 42,"399, Street 35, City 9",4,₹ 3238563,East,Closed
+L28U5773,Car Loan,Borrower 43,"316, Street 7, City 13",Co-Borrower 43,"213, Street 46, City 7",35,₹ 4403146,South,Defaulted
+L28U1863,Car Loan,Borrower 44,"73, Street 25, City 17",Co-Borrower 44,"309, Street 37, City 2",65,₹ 4403398,North,Pending
+L28U7811,Personal Loan,Borrower 45,"699, Street 22, City 5",Co-Borrower 45,"561, Street 17, City 18",7,₹ 2370486,East,Pending
+L28U2317,Car Loan,Borrower 46,"287, Street 33, City 19",N/A,N/A,45,₹ 2010557,East,Active
+L28U7631,Car Loan,Borrower 47,"748, Street 3, City 19",N/A,N/A,44,₹ 2757826,South,Pending
+L28U5389,Car Loan,Borrower 48,"264, Street 37, City 8",Co-Borrower 48,"9, Street 31, City 3",34,₹ 3034450,West,Pending
+L28U7076,Personal Loan,Borrower 49,"637, Street 21, City 16",Co-Borrower 49,"268, Street 26, City 2",85,₹ 521255,West,Closed
+L28U6993,Car Loan,Borrower 50,"99, Street 35, City 15",Co-Borrower 50,"272, Street 1, City 19",118,₹ 2280505,East,Defaulted
+L28U5117,Home Loan,Borrower 51,"211, Street 14, City 11",Co-Borrower 51,"284, Street 29, City 5",8,₹ 834541,North,Active
+L28U1788,Home Loan,Borrower 52,"648, Street 48, City 17",Co-Borrower 52,"64, Street 9, City 19",29,₹ 3013191,North,Closed
+L28U5241,Home Loan,Borrower 53,"215, Street 9, City 20",Co-Borrower 53,"936, Street 22, City 1",86,₹ 2178399,South,Defaulted
+L28U4464,Home Loan,Borrower 54,"681, Street 4, City 17",N/A,N/A,45,₹ 2202712,North,Defaulted
+L28U1920,Car Loan,Borrower 55,"266, Street 26, City 8",Co-Borrower 55,"101, Street 40, City 8",76,₹ 4005538,South,Defaulted
+L28U5994,Personal Loan,Borrower 56,"4, Street 36, City 11",Co-Borrower 56,"208, Street 19, City 18",100,₹ 1929595,North,Defaulted
+L28U2639,Car Loan,Borrower 57,"968, Street 34, City 17",N/A,N/A,98,₹ 1460688,North,Active
+L28U5317,Car Loan,Borrower 58,"793, Street 46, City 12",Co-Borrower 58,"238, Street 7, City 12",31,₹ 363302,North,Pending
+L28U8458,Home Loan,Borrower 59,"4, Street 26, City 7",N/A,N/A,31,₹ 482055,North,Active
+L28U3581,Home Loan,Borrower 60,"765, Street 16, City 4",N/A,N/A,82,₹ 779614,North,Defaulted
+L28U5889,Home Loan,Borrower 61,"857, Street 48, City 2",Co-Borrower 61,"842, Street 4, City 12",38,₹ 4527408,South,Closed
+L28U7361,Home Loan,Borrower 62,"979, Street 36, City 10",Co-Borrower 62,"198, Street 24, City 6",36,₹ 4612074,West,Closed
+L28U7733,Car Loan,Borrower 63,"994, Street 19, City 17",Co-Borrower 63,"450, Street 33, City 19",1,₹ 609923,West,Active
+L28U3768,Car Loan,Borrower 64,"209, Street 39, City 3",Co-Borrower 64,"34, Street 36, City 2",92,₹ 4265595,South,Pending
+L28U5825,Home Loan,Borrower 65,"381, Street 46, City 7",Co-Borrower 65,"869, Street 50, City 12",1,₹ 496070,South,Closed
+L28U3877,Personal Loan,Borrower 66,"824, Street 5, City 12",Co-Borrower 66,"784, Street 5, City 11",36,₹ 1606680,North,Pending
+L28U9553,Personal Loan,Borrower 67,"318, Street 22, City 14",Co-Borrower 67,"712, Street 36, City 18",7,₹ 4103184,South,Closed
+L28U2440,Car Loan,Borrower 68,"644, Street 49, City 2",Co-Borrower 68,"674, Street 45, City 8",36,₹ 2805354,East,Active
+L28U7704,Personal Loan,Borrower 69,"579, Street 4, City 15",Co-Borrower 69,"412, Street 32, City 18",99,₹ 2121049,East,Defaulted
+L28U7614,Home Loan,Borrower 70,"161, Street 15, City 9",Co-Borrower 70,"285, Street 34, City 1",35,₹ 940451,West,Pending
+L28U5205,Personal Loan,Borrower 71,"810, Street 44, City 3",N/A,N/A,80,₹ 183596,West,Defaulted
+L28U2343,Car Loan,Borrower 72,"913, Street 42, City 3",Co-Borrower 72,"871, Street 33, City 4",6,₹ 590055,East,Defaulted
+L28U9516,Car Loan,Borrower 73,"925, Street 33, City 14",Co-Borrower 73,"199, Street 43, City 3",119,₹ 1505933,North,Defaulted
+L28U8483,Car Loan,Borrower 74,"690, Street 27, City 11",N/A,N/A,15,₹ 3382914,North,Pending
+L28U3102,Home Loan,Borrower 75,"238, Street 50, City 3",N/A,N/A,74,₹ 4127907,South,Closed
+L28U5738,Car Loan,Borrower 76,"197, Street 20, City 17",N/A,N/A,54,₹ 4453109,South,Pending
+L28U5856,Car Loan,Borrower 77,"215, Street 18, City 9",Co-Borrower 77,"655, Street 41, City 10",20,₹ 952060,North,Defaulted
+L28U6662,Personal Loan,Borrower 78,"668, Street 7, City 15",N/A,N/A,42,₹ 4974665,West,Pending
+L28U1442,Personal Loan,Borrower 79,"509, Street 38, City 17",Co-Borrower 79,"306, Street 2, City 8",43,₹ 4869779,North,Closed
+L28U7778,Home Loan,Borrower 80,"713, Street 27, City 6",N/A,N/A,66,₹ 3344083,North,Active
+L28U8701,Personal Loan,Borrower 81,"332, Street 5, City 7",Co-Borrower 81,"477, Street 35, City 10",33,₹ 2953592,North,Pending
+L28U5899,Home Loan,Borrower 82,"592, Street 36, City 6",N/A,N/A,26,₹ 1584833,North,Active
+L28U9065,Personal Loan,Borrower 83,"586, Street 11, City 1",Co-Borrower 83,"218, Street 22, City 8",64,₹ 1519708,East,Active
+L28U8716,Car Loan,Borrower 84,"975, Street 3, City 8",Co-Borrower 84,"494, Street 38, City 6",17,₹ 1347914,South,Defaulted
+L28U1988,Car Loan,Borrower 85,"111, Street 1, City 12",N/A,N/A,21,₹ 1893679,East,Pending
+L28U9552,Home Loan,Borrower 86,"358, Street 7, City 14",N/A,N/A,14,₹ 2130016,North,Active
+L28U1440,Home Loan,Borrower 87,"27, Street 30, City 16",Co-Borrower 87,"187, Street 32, City 13",56,₹ 4595943,West,Defaulted
+L28U7120,Personal Loan,Borrower 88,"359, Street 12, City 14",N/A,N/A,113,₹ 1531372,South,Active
+L28U4006,Personal Loan,Borrower 89,"397, Street 50, City 11",N/A,N/A,85,₹ 215564,East,Defaulted
+L28U7446,Car Loan,Borrower 90,"290, Street 17, City 16",Co-Borrower 90,"829, Street 9, City 14",0,₹ 3074224,North,Defaulted
+L28U4489,Personal Loan,Borrower 91,"283, Street 42, City 11",Co-Borrower 91,"741, Street 15, City 13",36,₹ 104044,North,Defaulted
+L28U7643,Personal Loan,Borrower 92,"883, Street 4, City 5",Co-Borrower 92,"142, Street 32, City 8",71,₹ 446876,East,Active
+L28U9624,Car Loan,Borrower 93,"689, Street 42, City 6",Co-Borrower 93,"958, Street 36, City 3",100,₹ 445353,West,Closed
+L28U1343,Personal Loan,Borrower 94,"38, Street 48, City 20",Co-Borrower 94,"359, Street 10, City 13",116,₹ 3810900,North,Closed
+L28U8133,Car Loan,Borrower 95,"60, Street 28, City 3",Co-Borrower 95,"104, Street 41, City 6",77,₹ 1351599,South,Defaulted
+L28U9034,Car Loan,Borrower 96,"267, Street 43, City 16",Co-Borrower 96,"293, Street 29, City 11",92,₹ 1822863,West,Active
+L28U9313,Car Loan,Borrower 97,"600, Street 7, City 16",N/A,N/A,3,₹ 4961335,East,Active
+L28U3471,Personal Loan,Borrower 98,"657, Street 14, City 8",Co-Borrower 98,"498, Street 36, City 4",101,₹ 2869941,East,Pending
+L28U1830,Car Loan,Borrower 99,"376, Street 16, City 20",Co-Borrower 99,"898, Street 24, City 14",28,₹ 1037788,North,Defaulted
+L28U9593,Home Loan,Borrower 100,"750, Street 38, City 6",Co-Borrower 100,"293, Street 1, City 19",35,₹ 1210353,South,Defaulted
